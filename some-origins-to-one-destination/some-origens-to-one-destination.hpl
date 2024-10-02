@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pipeline>
   <info>
-    <name>TESTS</name>
+    <name>some-origens-to-one-destination</name>
     <name_sync_with_filename>Y</name_sync_with_filename>
     <description/>
     <extended_description/>
@@ -92,7 +92,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\AGilabert\Projectes\DATA\TESTS\Origen_01.csv</filename>
+    <filename>C:\AGilabert\Projectes\GitHub\apache-hop-examples\some-origins-to-one-destination\Origen_01.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -158,7 +158,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\AGilabert\Projectes\DATA\TESTS\Origen_02.csv</filename>
+    <filename>C:\AGilabert\Projectes\GitHub\apache-hop-examples\some-origins-to-one-destination\Origen_02.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -224,7 +224,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\AGilabert\Projectes\DATA\TESTS\Origen_03.csv</filename>
+    <filename>C:\AGilabert\Projectes\GitHub\apache-hop-examples\some-origins-to-one-destination\Origen_03.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -290,7 +290,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\AGilabert\Projectes\DATA\TESTS\Resultado.csv</filename>
+    <filename>C:\AGilabert\Projectes\GitHub\apache-hop-examples\some-origins-to-one-destination\Resultado.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -402,7 +402,7 @@
     <fileNameField/>
     <create_parent_folder>Y</create_parent_folder>
     <file>
-      <name>C:\AGilabert\Projectes\DATA\TESTS\Resultado</name>
+      <name>C:\AGilabert\Projectes\GitHub\apache-hop-examples\some-origins-to-one-destination\Resultado</name>
       <servlet_output>N</servlet_output>
       <do_not_open_new_file_init>Y</do_not_open_new_file_init>
       <extention>csv</extention>
