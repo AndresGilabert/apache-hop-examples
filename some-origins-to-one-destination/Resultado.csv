@@ -1,0 +1,14 @@
+LIC;ID;Description
+000;1;Old
+AAA;3;New
+AAA;6;First
+AAA;8;Second
+AAA;23;Third
+BBB;6;First
+BBB;12;Second_MOD
+BBB;13;Third_RMOD
+CCC;6;First
+CCC;12;Second
+CCC;13;Third
+CCC;22;Fourt
+CCC;27;Fourt
